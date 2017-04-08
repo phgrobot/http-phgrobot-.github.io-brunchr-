@@ -1,0 +1,62 @@
+
+
+#divfeat {
+	color: #f1c40f;
+}
+
+#divfeat {
+	text-align: center;
+	background-image: url("../images/background/bg.jpg") ;
+	background-size: cover;
+	padding-bottom: 300px;
+	padding-top: 200px;
+	margin: -20px;
+}
+
+.btn {
+	padding-bottom: 10px;
+	padding-top: 10px;
+	padding-right: 20px
+}
+
+.col-md-4 {
+	text-align: center;
+}
+
+.im2 {
+	background-color: #ecf0f1;
+	padding-bottom: 1em;
+}
+
+h1{
+	font-size: 80px;
+}
+
+li {
+	font-size: 20px;
+
+}
+
+.footer {
+	background-color: black ;
+	color: white;
+	padding-bottom: 2em;
+	padding-top: 2em;
+	padding: 40px;
+}
+.footer a{
+	color: white;
+	font-size: 40px;
+}
+
+.footer a:hover {
+	background-color: #f1c40f
+}
+
+.foot {
+	text-align: right;
+	padding-top: 2em;
+
+}
+
+
